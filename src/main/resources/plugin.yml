@@ -1,0 +1,7 @@
+name: McTTT
+version: '${project.version}'
+main: dev.whitescan.mcttt.McTTT
+api-version: '1.20'
+
+commands:
+  ttt:

@@ -1,0 +1,19 @@
+# Minecraft Trouble in Terrorist Town (Spigot) Configuration
+config:
+
+  # All guns that should be able to obtain
+  # Info: Relies on CrackShot
+  guns:
+    - python
+    - hunting
+    - ak-47
+    - deagle
+
+# Do not touch this unless you know what you are doing
+do-not-touch:
+
+  # Indicates if the Plugin is being run for the first time
+  first-launch: true
+
+  # The plugin version this configuration was made for
+  version: 1.0.0
